@@ -1,0 +1,4 @@
+﻿  testMatrix.cpp
+c:\users\97250\source\repos\mymatrix\mymatrix\testmatrix.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\97250\source\repos\mymatrix\mymatrix\testmatrix.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MyMatrix.vcxproj -> C:\Users\97250\source\repos\MyMatrix\Debug\MyMatrix.exe
